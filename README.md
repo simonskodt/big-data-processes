@@ -1,4 +1,4 @@
-![Header](./big-data-processes.png)
+![Header](./header_big-data-processes.png)
 
 ## About Course
 
