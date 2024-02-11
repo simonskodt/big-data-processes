@@ -1,4 +1,4 @@
-# Big Data Processes
+![Header](./big-data-processes.png)
 
 ## About Course
 
