@@ -14,7 +14,7 @@ This course is available to all DIM students. As a non-DIM student, I should hav
 |--------|-----------------------------------------|---------------------------------------|
 | Week 1 | Introduction                            | Opening, examining of simple datasets |
 | Week 2 | Prediction                              | Where to get datasets, dataset manipulation, visualisations |
-| Week 3 | Classification                          | |
+| Week 3 | Classification                          | Pearson correlation matrix, decision trees for classification, K-NN |
 | Week 4 | Emsemble Methods                        | |
 | Week 5 | Evaluating                              | |
 | Week 6 | ML & Climate Change                     | |
