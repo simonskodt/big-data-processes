@@ -15,8 +15,8 @@ This course is available to all DIM students. As a non-DIM student, I should hav
 | Week 1 | Introduction                            | Opening, examining of simple datasets |
 | Week 2 | Prediction                              | Where to get datasets, dataset manipulation, visualisations |
 | Week 3 | Classification                          | Pearson correlation matrix, decision trees for classification, K-NN |
-| Week 4 | Emsemble Methods                        | |
-| Week 5 | Evaluating                              | |
+| Week 4 | Ensemble Methods                        | Splitting and scaling, bagging, boosing, ensemble voting|
+| Week 5 | Evaluating                              | Confusion matrix, scores and metrics, over- and undersampling |
 | Week 6 | ML & Climate Change                     | |
 | Week 7 | Exploratory Data Analysis               | |
 | Week 8 | Power                                   | |
