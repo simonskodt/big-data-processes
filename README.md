@@ -24,3 +24,4 @@ This course is available to all DIM students. As a non-DIM student, I should hav
 | Week 10 | Implementation & Maintenance           | |
 | Week 11 | AI Ethics                              | |
 | Week 12 | International Contexts                 | |
+print("vi skal danse kl. 15 på søndag!")
