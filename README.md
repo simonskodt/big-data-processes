@@ -17,10 +17,10 @@ This course is available to all DIM students. As a non-DIM student, one should h
 | Week 3 | Classification                          | Pearson correlation matrix, decision trees for classification, K-NN |
 | Week 4 | Ensemble Methods                        | Splitting and scaling, bagging, boosing, ensemble voting|
 | Week 5 | Evaluating                              | Confusion matrix, scores and metrics, over- and undersampling |
-| Week 6 | ML & Climate Change                     | |
-| Week 7 | Exploratory Data Analysis               | |
-| Week 8 | Power                                   | |
-| Week 9 | Development                             | |
-| Week 10 | Implementation & Maintenance           | |
-| Week 11 | AI Ethics                              | |
-| Week 12 | International Contexts                 | |
+| Week 6 | ML & Climate Change                     | Using codecarbon from EmissionsTracker |
+| Week 7 | Exploratory Data Analysis               | Data cleaning, exploration, outliers, and visualisation |
+| Week 8 | Power                                   | <span style="color:lightblue">**NO CODE**</span> |
+| Week 9 | Development                             | <span style="color:lightblue">**NO CODE**</span> |
+| Week 10 | Implementation & Maintenance           | <span style="color:lightblue">**NO CODE**</span> |
+| Week 11 | AI Ethics                              | <span style="color:lightblue">**NO CODE**</span> |
+| Week 12 | International Contexts                 | <span style="color:lightblue">**NO CODE**</span> |
