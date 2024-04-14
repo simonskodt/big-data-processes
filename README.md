@@ -2,11 +2,11 @@
 
 ## About Course
 
-In this Big Data Processes course, I will learn how to effectively manage and utilize data sets. I will gain skills in data interpretation, visualization, and reasoning about data in larger contexts. By the end of the course, I will be able to identify and describe trends related to Big Data, analyze how organizations derive value from insights, design Big Data Processes for research and organizational issues, conduct and report analytical insights using visualization and metrics, and reflect on the implications of Big Data processes.
+The Big Data Processes course teaches management and usage of data sets, interpretation and visualisation of data, and understanding data in larger contexts. It enables the identification of Big Data trends, understanding the value of insights to organizations, and designing Big Data processes. It also promotes the production of analytical insights and understanding the implications of Big Data processes.
 
 ## Prerequisites
 
-This course is available to all DIM students. As a non-DIM student, I should have basic literacy in a programming language (for instance R or Python), corresponding to an introductory course in programming or equivalent.
+This course is available to all DIM students. As a non-DIM student, one should have basic literacy in a programming language (for instance R or Python), corresponding to an introductory course in programming or equivalent.
 
 ## Weekly Exercises
 
@@ -24,4 +24,3 @@ This course is available to all DIM students. As a non-DIM student, I should hav
 | Week 10 | Implementation & Maintenance           | |
 | Week 11 | AI Ethics                              | |
 | Week 12 | International Contexts                 | |
-print("vi skal danse kl. 15 på søndag!")
